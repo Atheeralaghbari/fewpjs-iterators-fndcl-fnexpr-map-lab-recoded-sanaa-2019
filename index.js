@@ -16,6 +16,7 @@ const titleCased = () => {
   return item.charAt(0).toUpperCase() + item.substr(1)}).join(' '));
  return tut;
 }
+
 // console.log(titleCased(tutorials));
 
 // let tut=[]
